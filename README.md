@@ -27,9 +27,13 @@ Print a single integer — the minimum number of moves needed to make the matrix
 <h6>Input</h6>
 
 >0 0 0 0 0
+
 >0 0 0 0 1
+
 >0 0 0 0 0
+
 >0 0 0 0 0
+
 >0 0 0 0 0
 
 
@@ -43,9 +47,13 @@ Print a single integer — the minimum number of moves needed to make the matrix
 <h6>Input</h6>
 
 >0 0 0 0 0
+
 >0 0 0 0 0
+
 >0 1 0 0 0
+
 >0 0 0 0 0
+
 >0 0 0 0 0
 
 
